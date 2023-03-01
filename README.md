@@ -24,7 +24,7 @@ Next to pioneering the SEA:ME learning projects, Fellows are invited to:
 
 * Mentor students and win them for internships and jobs in their organisation
 * Engage in fun projects like developing a self-driving Käfer or an indoor-drone navigation system for an artistic drone-dance project
-* Use 42 Wolfsburg as a platform for open knowledge sharing and expert exchange via our SEA:ME symposia, Fellow Gatherings, workshops and hackathons.
+* Use our lab/space as a platform for open knowledge sharing and expert exchange via our SEA:ME symposia, Fellow Gatherings, workshops and hackathons.
 
 For more information about SEA:ME: [https://seame.space](https://seame.space)
 
