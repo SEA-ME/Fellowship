@@ -8,6 +8,7 @@
 * Enjoy our Open Innovation & Open Education environment without bureaucracy but lots of entrepreneurial peers.
 * Connect to talented next generation coders and evolve open source training materials that can be used in your organisation, universities and industry     \
 
+*Research shows that men apply to jobs when they meet an average of 60% of the criteria. Meanwhile, women or people with protected characteristics often only apply if they check every box. So if you feel you could be great for this role but don’t meet every single item on the list, please get in touch either way. We’d love to work out the potential together.*
 
 We are an innovative non-profit higher-education organization building the first comprehensive training curriculum for automotive and mobility software developers. As SEA:ME Fellows, you volunteer from 2h per month to 8 hours per week to collaborate on learning and innovation projects. Right now you are invited to contribute to the development of our new master-level 12-month open source curriculum that trains students in all areas and modes of mobility via 3 modules: 
 
