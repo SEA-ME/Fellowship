@@ -21,11 +21,20 @@ We are an innovative non-profit higher-education organization building the first
 
 The SEA:ME is in collaboration with our partners from the Software-defined Vehicle (SDV) project at the Eclipse foundation. Through this partnership we will transpose cutting edge open source projects from SDV into open peer-training materials. 
 
-Next to pioneering the SEA:ME learning projects, Fellows are invited to:
+## What does it mean concretely to become a Fellow? What will I do?
+Your expertise and support will impact aspiring coders to thrive in their careers.
+We are building a network of professionals to guide and mentor our students. Whether you are an expert software engineer providing technical guidance, a manager or a recruiting pro offering career support and advice, your contribution will be valuable.
+Fellows can engage in the following activities:
+* **Mentoring.** Our Mentorship Program provides inspiration, career advice, and motivation to aspiring coders on a 1:1 basis to help them achieve their career goals. In the mentorship kick-off you will find a match based on what you can offer and the respective students' needs. In addition, we offer career support sessions to help students to find suitable job opportunities and prepare for coding interviews. You can join our regular Fellowship events and participate in a vibrant community of like-minded professionals.
+* **Internships.** Our Internship Program offers 4-6-month coding internships with the majority receiving job offers - even before graduation based on high recommendation rates from their mentors.
+* **Learning and Development.** Our Learning and Development Program involves collaboration on Communities of Practice, Open Educational Resources, Micro-Trainings and Innovation Projects to foster lifelong learning and development.
 
-* Mentor students and win them for internships and jobs in their organisation
-* Engage in fun projects like developing a self-driving Käfer or an indoor-drone navigation system for an artistic drone-dance project
-* Use our lab/space as a platform for open knowledge sharing and expert exchange via our SEA:ME symposia, Fellow Gatherings, workshops and hackathons.
+Next to pioneering the SEA:ME learning projects, Fellows are invited to:
+Engage in fun projects like developing a self-driving Käfer or an indoor-drone navigation system for an artistic drone-dance project
+Use 42 as a platform for open knowledge sharing and expert exchange via our SEA:ME symposia, Fellow Gatherings, workshops and hackathons.
+
+At a minimum, we would like to see 2 hrs per month (to mentor one student) to 8 hrs per week (if your company allows you to engage with us as a 20% project)
+
 
 For more information about SEA:ME: [https://seame.space](https://seame.space)
 
