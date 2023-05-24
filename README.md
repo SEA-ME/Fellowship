@@ -84,9 +84,9 @@ Knowledge sharing
 - At least 1 during the whole SEA:ME duration in fellow’s area of expertise.
 ### Mentoring
 - Code review (optional - because not all fellows are coders/developers/programmers)
-- 30 mins per sprint per 4~5 students
+- 30 mins per sprint per 4 students
 ### Mentoring:
-- 2~3 hrs per month per 4~5 students
+- 2 hrs per month per 4 students
 - 15 mins 1:1 per sprint(15 days) per student
 ### Competitions / tests / hackathons
 - Play a jury member!
