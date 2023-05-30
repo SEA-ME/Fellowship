@@ -57,6 +57,8 @@ Please [take 10 min to fill out the Fellow Application form](https://seame.space
 SEA:ME is using GitHub as a tool for Learning Management Systems. Being a member of the SEA:ME organization on GitHub is a must for a SEA:ME fellow.
 ### Slack
 SEA:ME is using Slack. Chat with other fellows, community members, students and make big announcements. If you are not part of SEA:ME Slack server you are missing out a lot!
+### Notion
+SEA:ME Calendar is available on Notion. This could also be a platform to keep public record of our Fellows.
 ### Website (optional)
 At SEA:ME, we would love to showcase you as a fellow on our website. While it is not mandatory, we highly encourage you to provide us with your profile picture and a little professional description. It helps us increase our visibility in this universe!
 ### LinkedIn (optional)
@@ -76,6 +78,7 @@ Knowledge sharing
 - Do you have an idea for a hackathon? Or looking for one? Check out the ideas: https://github.com/orgs/SEA-ME/projects/25
 - Our students are following an agile way of work/study with sessions like sprint planning, sprint execution, sprint review, feedback/team building, etc. This structure will be available in our SEA:ME Calendar 
 ### Slack
+### Notion
 ### Website (optional)
 ### LinkedIn (optional)
 ### Ask Me Anything
