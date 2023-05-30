@@ -92,4 +92,5 @@ Knowledge sharing
 - Play a jury member!
 
 ## SEA:ME Calendar
+- On Notion: https://www.notion.so/31e519a7c1584b3588a4b27ac5bbd7ad?v=56b760f21b544be5a8124c4466344144&pvs=4
 
