@@ -28,7 +28,7 @@ Use SEA:ME as a platform for open knowledge sharing and expert exchange via our 
 
 For more information about SEA:ME: [https://seame.space](https://seame.space)
 
-Please [take 10 min to fill out the Fellow Application form](https://seame.space/become-a-fellow/). We will get back swiftly with how you can hit the ground, get to know your peer 42 SEA:ME Fellows and our students.
+**Please [take 10 min to fill out the Fellow Application form](https://seame.space/become-a-fellow/).** We will get back swiftly with how you can hit the ground, get to know your peer 42 SEA:ME Fellows and our students.
 
 ### We are currently looking for experts in the following areas:
 
@@ -96,15 +96,4 @@ Knowledge sharing
 
 ## SEA:ME Calendar
 - On Notion: https://www.notion.so/31e519a7c1584b3588a4b27ac5bbd7ad?v=56b760f21b544be5a8124c4466344144&pvs=4
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
